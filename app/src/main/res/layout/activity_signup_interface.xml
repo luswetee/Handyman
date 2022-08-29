@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activities.SignupInterface">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="365dp">
+
+        <Button
+            android:id="@+id/employer"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="300dp"
+            android:text="Employer"
+            android:layout_height="300dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="365dp">
+
+        <Button
+            android:id="@+id/employee"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="300dp"
+            android:text="Employee"
+            android:layout_height="300dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

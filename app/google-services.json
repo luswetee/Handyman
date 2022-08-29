@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "759569030696",
+    "firebase_url": "https://handyman-9a36a-default-rtdb.firebaseio.com",
+    "project_id": "handyman-9a36a",
+    "storage_bucket": "handyman-9a36a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759569030696:android:7221fdacc297f0506d1f1d",
+        "android_client_info": {
+          "package_name": "com.luswetee.handyman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759569030696-b61hp46kki6l8kc5j9l9khpeob8ljv04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMoCro5uOis9gT2o1409nV8wsd05T73_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759569030696-b61hp46kki6l8kc5j9l9khpeob8ljv04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
